@@ -34,6 +34,8 @@ WebDriver driver;
 	}
 	
 	
+	// creating a function to compare 2 products
+	
 	public void CompareTwoProducts()
 	{
 
