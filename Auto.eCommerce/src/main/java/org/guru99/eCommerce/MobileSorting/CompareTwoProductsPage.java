@@ -35,6 +35,7 @@ WebDriver driver;
 	
 	
 	// creating a function to compare 2 products
+	//not able to do
 	
 	public void CompareTwoProducts()
 	{
