@@ -33,6 +33,8 @@ public class Checkout {
 
 	WebDriver driver;
 	
+	//calling constructor from new created branch from eclipse
+	
 	public Checkout(WebDriver driver) 
 	{
 		this.driver = driver;
